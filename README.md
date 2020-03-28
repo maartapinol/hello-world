@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hiya!
+
+I am trying to understand how this thing works
